@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# **PGWEBL**
+# **SAVANA RAYA**
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
@@ -8,7 +8,7 @@
 </p>
 
 ## **Tentang Proyek Ini**
-PGWEBL adalah proyek berbasis **Laravel** yang dikembangkan untuk kebutuhan tertentu.  
+SAVANA RAYA adalah proyek berbasis **Laravel** yang dikembangkan untuk kebutuhan pariwisata di Pulau Lombok.  
 Framework Laravel dipilih karena kemudahannya dalam membangun aplikasi web dengan cepat dan efisien.
 
 ## **Fitur Utama**  
